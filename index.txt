@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <title>Prosta strona</title>
+    </head>
+    <body>
+      <p>Moja strona!</p>  
+    </body>
+</html>
